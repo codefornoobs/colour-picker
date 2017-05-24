@@ -60,14 +60,26 @@ namespace colour_picker
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050001
-			public const int seekBar1 = 2131034113;
+			// aapt resource value: 0x7f050005
+			public const int sbBlue = 2131034117;
 			
-			// aapt resource value: 0x7f050000
-			public const int textView1 = 2131034112;
+			// aapt resource value: 0x7f050003
+			public const int sbGreen = 2131034115;
+			
+			// aapt resource value: 0x7f050001
+			public const int sbRed = 2131034113;
+			
+			// aapt resource value: 0x7f050004
+			public const int txtBlue = 2131034116;
+			
+			// aapt resource value: 0x7f050006
+			public const int txtColour = 2131034118;
 			
 			// aapt resource value: 0x7f050002
-			public const int textView2 = 2131034114;
+			public const int txtGreen = 2131034114;
+			
+			// aapt resource value: 0x7f050000
+			public const int txtRed = 2131034112;
 			
 			static Id()
 			{
@@ -101,8 +113,17 @@ namespace colour_picker
 			// aapt resource value: 0x7f040001
 			public const int ApplicationName = 2130968577;
 			
+			// aapt resource value: 0x7f040004
+			public const int Blue = 2130968580;
+			
+			// aapt resource value: 0x7f040003
+			public const int Green = 2130968579;
+			
 			// aapt resource value: 0x7f040000
 			public const int Hello = 2130968576;
+			
+			// aapt resource value: 0x7f040002
+			public const int Red = 2130968578;
 			
 			static String()
 			{

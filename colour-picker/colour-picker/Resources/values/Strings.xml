@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Hello">Hello World, Click Me!</string>
-    <string name="ApplicationName">colour-picker</string>
+  <string name="ApplicationName">colour-picker</string>
+  <string name="Red">RED</string>
+  <string name="Green">GREEN</string>
+  <string name="Blue">BLUE</string>
 </resources>
